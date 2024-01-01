@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "args": [],
+            "vmArgs": [
+                "--module-path",
+                "${workspaceFolder}/lib",
+                "--add-modules",
+                "javafx.controls,javafx.fxml"
+            ],
+            "projectName": "java-loves-you_a4ccf775"
+        },
+    ]
+  }
+  
