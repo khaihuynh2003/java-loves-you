@@ -1,0 +1,5 @@
+"vmArgs": "--module-path ./lib --add-modules javafx.controls,javafx.fxml"
+
+git remote set-url origin https://github.com/khaihuynh2003/java-loves-you.git
+git remote add origin https://github.com/khaihuynh2003/java-loves-you.git
+
