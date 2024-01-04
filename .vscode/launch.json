@@ -1,0 +1,94 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "nanu_1ae9a9d6",
+            "vmArgs": "--module-path ./lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "nanu_1ae9a9d6",
+            "vmArgs": "--module-path ./lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "tut10",
+            "request": "launch",
+            "mainClass": "tut10",
+            "projectName": "nanu_1ae9a9d6",
+            "vmArgs": "--module-path ./lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "tut3",
+            "request": "launch",
+            "mainClass": "tut3",
+            "projectName": "nanu_1ae9a9d6",
+            "vmArgs": "--module-path ./lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "tut4",
+            "request": "launch",
+            "mainClass": "tut4",
+            "projectName": "nanu_1ae9a9d6",
+            "vmArgs": "--module-path ./lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "tut5",
+            "request": "launch",
+            "mainClass": "tut5",
+            "projectName": "nanu_1ae9a9d6",
+            "vmArgs": "--module-path ./lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "tut6",
+            "request": "launch",
+            "mainClass": "tut6",
+            "projectName": "nanu_1ae9a9d6",
+            "vmArgs": "--module-path ./lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "tut7",
+            "request": "launch",
+            "mainClass": "tut7",
+            "projectName": "nanu_1ae9a9d6",
+            "vmArgs": "--module-path ./lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "tut8",
+            "request": "launch",
+            "mainClass": "tut8",
+            "projectName": "nanu_1ae9a9d6",
+            "vmArgs": "--module-path ./lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "tut9",
+            "request": "launch",
+            "mainClass": "tut9",
+            "projectName": "nanu_1ae9a9d6",
+            "vmArgs": "--module-path ./lib --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
